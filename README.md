@@ -1,2 +1,2 @@
 # tribute-page
-Tribute page for Ursula Le Guin
+My first HTML / CSS page : tribute page for Ursula Le Guin
